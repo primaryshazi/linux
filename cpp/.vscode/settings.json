@@ -55,6 +55,12 @@
         "condition_variable": "cpp",
         "mutex": "cpp",
         "list": "cpp",
-        "climits": "cpp"
+        "climits": "cpp",
+        "iomanip": "cpp",
+        "bit": "cpp",
+        "codecvt": "cpp",
+        "compare": "cpp",
+        "concepts": "cpp",
+        "ranges": "cpp"
     }
 }
