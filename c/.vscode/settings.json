@@ -13,6 +13,7 @@
         "sem.h": "c",
         "stdlib.h": "c",
         "signal.h": "c",
-        "pthread.h": "c"
+        "pthread.h": "c",
+        "bitset": "c"
     }
 }
