@@ -14,7 +14,7 @@
                 "-pthread"
             ],
             "options": {
-                "cwd": "${workspaceRoot}"
+                "cwd": "${workspaceRoot}/build"
             },
             "problemMatcher": [
                 "$gcc"
