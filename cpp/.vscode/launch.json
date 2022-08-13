@@ -23,7 +23,7 @@
                 }
             ],
             "preLaunchTask": "g++",
-            "miDebuggerPath": "/usr/local/shazi/gdb/bin/gdb"
+            "miDebuggerPath": "/usr/bin/gdb"
         }
     ]
 }

@@ -3,7 +3,7 @@
         {
             "type": "shell",
             "label": "gcc",
-            "command": "/usr/local/shazi/gcc/bin/gcc",
+            "command": "/usr/bin/gcc",
             "args": [
                 "-g",
                 "-Wall",

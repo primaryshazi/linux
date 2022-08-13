@@ -6,7 +6,7 @@
         {
             "type": "shell",
             "label": "g++",
-            "command": "/usr/local/shazi/gcc/bin/g++",
+            "command": "/usr/bin/g++",
             "args": [
                 "-g",
                 "-Wall",
